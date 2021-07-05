@@ -2,7 +2,7 @@
 
 Given the increasing complexity of neural data and the generalized use
 of theoretical models in neuroscience, more and more neuroscientists
-rely on computationnal tools for modelling or data analysis. We would
+rely on computational tools for modelling or data analysis. We would
 like to offer the possibility to those who feel that their maths /
 informatics background is a bit short to update their maths and to get
 familiar with basic techniques for data analysis/modelling using the
