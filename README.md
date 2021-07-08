@@ -59,7 +59,7 @@ To avoid very long presentations over Zoom, **you'll have to read the material i
 * Check if you have [nbconvert](https://nbconvert.readthedocs.io/en/latest/install.html#installing-nbconvert) installed in your environment (you should, if you have jupyter notebook or lab). A further Latex installation might be necessary if you want to export your notebook to [pdf](https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex). 
 
 5. Friday, July 9th, 2021 (Day #5, final)
- * Work on producing your final report; emphasis on comments and _documentation_.
+ * Work on producing your final report; emphasis on comments and _documentation_. The final report can be uploaded [here](https://drive.google.com/drive/folders/1iQWpJ66WxvMyWl7kzhKK92URuVfThkcX?usp=sharing).
 
 ## The (mini) project
 
